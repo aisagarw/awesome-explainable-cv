@@ -161,7 +161,12 @@ alignment between the model’s representation and an underlying data generation
 - **"Interactive Concept Bottleneck Models"**  
     **Authors**: _Kushal Chauhan, Rishabh Tiwari, Jan Freyberg, Pradeep Shenoy, Krishnamurthy Dvijotham._ <br>
     **Conference**: [AAAI 2023](https://arxiv.org/abs/2212.07430)  <br>
-    **Summary**: _Extends CBMs to interactive prediction settings where the model can query a human collaborator for the label to some concepts. We develop an interaction policy that, at prediction time, chooses which concepts to request a label for so as to maximally improve the final prediction._  
+    **Summary**: _Extends CBMs to interactive prediction settings where the model can query a human collaborator for the label to some concepts. We develop an interaction policy that, at prediction time, chooses which concepts to request a label for so as to maximally improve the final prediction._
+
+- **"Sparse Linear Concept Discovery Models"**  
+    **Authors**: _Konstantinos P. Panousis, Dino Ienco, Diego Marcos._ <br>
+    **Conference**: [arXiv 2023](https://arxiv.org/abs/2308.10782)  <br>
+    **Summary**: _Highlights that CBMs usually suffer from performance degradation and lower interpretability than intended due to the sheer amount of concepts contributing to each decision. The authors propose a simple yet highly intuitive interpretable framework based on Contrastive Language Image models and a single sparse linear layer meaning that only a few features (or concepts) are allowed to contribute to each decision, addressing the problem of too many concepts being involved._  
 
 - **"Statistically Signifcant Concept-based Explanation of Image Classifers via Model Knockoffs"**  
     **Authors**: _Kaiwen Xu1, Kazuto Fukuchi1, Youhei Akimoto1, Jun Sakuma._ <br>
