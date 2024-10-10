@@ -98,6 +98,17 @@ alignment between the model’s representation and an underlying data generation
     **Conference**: [ICLR 2023](https://arxiv.org/pdf/2205.15480)  <br>
     **Summary**: _PCBMs can convert any pre-trained model into a concept bottleneck model in a data-efficient manner, and enhance the model with the desired interpretability benefits. In constrast to CBMs tackling local interventions, PCBMs propose interventions for changing global model behavior._
 
+ - **"Overlooked factors in concept-based explanations: Dataset choice, concept learnability, and human capability"**  
+    **Authors**: _Vikram V. Ramaswamy, Sunnie S. Y. Kim, Ruth Fong, Olga Russakovsky._ <br>
+    **Conference**: [CVPR 2023](https://arxiv.org/pdf/2207.09615)  <br>
+    **Summary**: _Talks about the impact of the probe dataset on generated explanations by concept-based explanation methods, and also highlights that the concepts used in the probing datasets are harder to learn that the corresponding class itself. The authors conclude with some suggestions for improving the quality and usability of concept-based explanations._
+
+ - **"CRAFT: Concept Recursive Activation FacTorization for Explainability"**  
+    **Authors**: _Thomas Fel, Agustin Picard, Louis Bethune, Thibaut Boissin, David Vigouroux, Julien Colin, Rémi Cadène, Thomas Serre._ <br>
+    **Conference**: [CVPR 2023](https://arxiv.org/pdf/2207.09615)  <br>
+    **Summary**: _Method to identify both “what” and “where” by generating concept-based explanation._
+
+
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
     **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_ <br>
     **Conference**: [TMLR 2024](https://openreview.net/pdf?id=TIsrnWpjQ0)  <br>
