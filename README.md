@@ -171,6 +171,11 @@ alignment between the model’s representation and an underlying data generation
 - **"Statistically Signifcant Concept-based Explanation of Image Classifers via Model Knockoffs"**  
     **Authors**: _Kaiwen Xu1, Kazuto Fukuchi1, Youhei Akimoto1, Jun Sakuma._ <br>
     **Conference**: [IJCAI 2023](https://www.ijcai.org/proceedings/2023/0058.pdf)  <br>
+    **Summary**: _Propose a method to learn the image concept and then using the Knockoff samples to select the important concepts for prediction by controlling the False Discovery Rate (FDR) under a certain value._
+
+- **"Statistically Signifcant Concept-based Explanation of Image Classifers via Model Knockoffs"**  
+    **Authors**: _Kaiwen Xu1, Kazuto Fukuchi1, Youhei Akimoto1, Jun Sakuma._ <br>
+    **Conference**: [IJCAI 2023](https://www.ijcai.org/proceedings/2023/0058.pdf)  <br>
     **Summary**: _Propose a method to learn the image concept and then using the Knockoff samples to select the important concepts for prediction by controlling the False Discovery Rate (FDR) under a certain value._  
 
 
