@@ -48,9 +48,9 @@ A curated list of research papers focused on explainable methods in computer vis
 ### Concept-Based Explanations
 
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
-  Authors: Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik  
-  **Conference:** [TMLR 2024](https://openreview.net/pdf?id=TIsrnWpjQ0)  
-  **_Summary:_** Propose Tabular Concept Bottleneck Models (TabCBMs), a family of interpretable self-explaining neural architectures capable of learning high-level concept explanations for tabular tasks.
+    Authors: Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik  
+    Conference: [TMLR 2024](https://openreview.net/pdf?id=TIsrnWpjQ0)  
+    _Summary:_ Propose Tabular Concept Bottleneck Models (TabCBMs), a family of interpretable self-explaining neural architectures capable of learning high-level concept explanations for tabular tasks.
 
 
   
