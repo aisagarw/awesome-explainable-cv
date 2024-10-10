@@ -88,7 +88,15 @@ alignment between the model’s representation and an underlying data generation
     **Conference**: [NeurIPS 2022](https://finale.seas.harvard.edu/sites/scholar.harvard.edu/files/finale/files/10494_addressing_leakage_in_concept_.pdf)  <br>
     **Summary**: _Improvement over CBMs on fronts of them having an insufficient concept set and an inexpressive concept predictor._
 
+ - **"Concept-level Debugging of Part-Prototype Networks"**  
+    **Authors**: _Andrea_Bontempelli, Stefano Teso, Katya Tentori, Fausto Giunchiglia, Andrea Passerini._ <br>
+    **Conference**: [ICLR 2023](https://openreview.net/pdf?id=oiwXWPDTyNk)  <br>
+    **Summary**: _Proposes a "debugger", which is a method for human experts to provide feedback on model predictions, specifically on what portion of the input is relevant, which is then further used to finetune the model._
 
+ - **"Post-hoc Concept Bottleneck Models"**  
+    **Authors**: _Mert Yuksekgonul, Maggie Wang, James Zou._ <br>
+    **Conference**: [ICLR 2023](https://arxiv.org/pdf/2205.15480)  <br>
+    **Summary**: _PCBMs can convert any pre-trained model into a concept bottleneck model in a data-efficient manner, and enhance the model with the desired interpretability benefits. In constrast to CBMs tackling local interventions, PCBMs propose interventions for changing global model behavior._
 
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
     **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_ <br>
