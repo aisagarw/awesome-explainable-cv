@@ -78,7 +78,7 @@ A curated list of research papers focused on explainable methods in computer vis
 ## Contrastive Explanations
 - **"Explaining Deep Neural Networks with a Conceptualized Contrastive Explanation"**  
   Authors: Dhurandhar et al.  
-  Year: 2018  
+  [Year: 2018](https://arxiv.org/abs/1802.07623)  
   [Link](https://arxiv.org/abs/1802.07623)
 
 ---
