@@ -68,6 +68,11 @@ A curated list of research papers focused on explainable methods in computer vis
     **Summary**: _Questions the interpretability of the concepts defined in classic CBMs and a propose clear definition of interpretability in terms of
 alignment between the model’s representation and an underlying data generation process._
 
+- **"Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off"**  
+    **Authors**: _Mateo Espinosa Zarlenga, Pietro Barbiero, Gabriele Ciravegna, Giuseppe Marra et al._ <br>
+    **Conference**: [NeurIPS 2022](https://openreview.net/pdf?id=HXCPA2GXf_)  <br>
+    **Summary**: _propose novel concept-based architectures to overcome the accuracy/interpretability pitfalls of classic CBMs (mostly due to incomplete concepts or over-reliance on concepts), thus enabling their deployment in real-world settings where concept annotations are likely to be incomplete.s._
+
 
 
 
