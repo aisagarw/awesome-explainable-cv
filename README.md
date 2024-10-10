@@ -7,11 +7,9 @@ A curated list of research papers focused on explainable methods in computer vis
 2. [Saliency Methods](#saliency-methods)
 3. [Concept-Based Explanations](#concept-based-explanations)
 4. [Contrastive Explanations](#contrastive-explanations)
-5. [Causal Explanations](#causal-explanations)
-6. [Visual Question Answering (VQA)](#visual-question-answering)
-7. [Datasets and Benchmarks](#datasets-and-benchmarks)
-8. [Applications](#applications)
-9. [Resources](#resources)
+5. [Datasets and Benchmarks](#datasets-and-benchmarks)
+6. [Applications](#applications)
+7. [Resources](#resources)
 
 ---
 
@@ -190,30 +188,6 @@ alignment between the model’s representation and an underlying data generation
   Authors: Dhurandhar et al.  
   Conference: AISTATS 2018  
   [Link](https://arxiv.org/abs/1802.07623)  
-  _Summary:_
-
----
-
-### Causal Explanations
-- **"Causal Interpretability for Machine Learning – Problems, Methods, and Evaluation"**  
-  Authors: Pawelczyk et al.  
-  Conference: NeurIPS 2020  
-  [Link](https://arxiv.org/abs/2012.14545)  
-  _Summary:_
-
-- **"On the Relationship Between Explanation and Prediction: A Causal View"**  
-  Authors: Amir-Hossein Karimi, Krikamol Muandet, Simon Kornblith, Bernhard Schölkopf, Been Kim  
-  Conference: NeurIPS 2022  
-  [Link](http://arxiv.org/abs/2212.06925)  
-  _Summary:_
-
----
-
-### Visual Question Answering
-- **"Self-Critical Reasoning for Robust Visual Question Answering"**  
-  Authors: Wu et al.  
-  Conference: NeurIPS 2019  
-  [Link](https://arxiv.org/abs/1912.08600)  
   _Summary:_
 
 ---
