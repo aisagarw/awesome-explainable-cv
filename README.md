@@ -108,6 +108,19 @@ alignment between the model’s representation and an underlying data generation
     **Conference**: [CVPR 2023](https://arxiv.org/pdf/2207.09615)  <br>
     **Summary**: _Method to identify both “what” and “where” by generating concept-based explanation._
 
+- **"Spatial-temporal Concept based Explanation of 3D ConvNets"**  
+    **Authors**: _Ying Ji, Yu Wang, Kensaku Mori, Jien Kato._ <br>
+    **Conference**: [CVPR 2023](https://arxiv.org/pdf/2206.05275)  <br>
+    **Summary**: _3D ACEs._
+
+- **"Learning Bottleneck Concepts in Image Classification"**  
+    **Authors**: _Bowen Wang,  Liangzhi Li, Yuta Nakashima, Hajime Nagahara._ <br>
+    **Conference**: [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Bottleneck_Concepts_in_Image_Classification_CVPR_2023_paper.pdf)  <br>
+    **Summary**: _._
+
+
+   
+
 
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
     **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_ <br>
