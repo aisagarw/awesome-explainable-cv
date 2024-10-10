@@ -116,7 +116,7 @@ alignment between the model’s representation and an underlying data generation
 - **"Learning Bottleneck Concepts in Image Classification"**  
     **Authors**: _Bowen Wang,  Liangzhi Li, Yuta Nakashima, Hajime Nagahara._ <br>
     **Conference**: [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Bottleneck_Concepts_in_Image_Classification_CVPR_2023_paper.pdf)  <br>
-    **Summary**: _._
+    **Summary**: _This paper proposes Bottleneck Concept Learner (BotCL), which represents an image solely by the presence/absence of concepts learned through training over the target task without explicit supervision over the concepts. An image is represented solely by the existence of concepts and is classified using them._
 
 
    
