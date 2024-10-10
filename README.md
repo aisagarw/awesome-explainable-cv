@@ -86,16 +86,6 @@ alignment between the model’s representation and an underlying data generation
     **Conference**: [NeurIPS 2022](https://finale.seas.harvard.edu/sites/scholar.harvard.edu/files/finale/files/10494_addressing_leakage_in_concept_.pdf)  <br>
     **Summary**: _Improvement over CBMs on fronts of them having an insufficient concept set and an inexpressive concept predictor._
 
- - **"Concept-level Debugging of Part-Prototype Networks"**  
-    **Authors**: _Andrea_Bontempelli, Stefano Teso, Katya Tentori, Fausto Giunchiglia, Andrea Passerini._ <br>
-    **Conference**: [ICLR 2023](https://openreview.net/pdf?id=oiwXWPDTyNk)  <br>
-    **Summary**: _Proposes a "debugger", which is a method for human experts to provide feedback on model predictions, specifically on what portion of the input is relevant, which is then further used to finetune the model._
-
- - **"Post-hoc Concept Bottleneck Models"**  
-    **Authors**: _Mert Yuksekgonul, Maggie Wang, James Zou._ <br>
-    **Conference**: [ICLR 2023](https://arxiv.org/pdf/2205.15480)  <br>
-    **Summary**: _PCBMs can convert any pre-trained model into a concept bottleneck model in a data-efficient manner, and enhance the model with the desired interpretability benefits. In constrast to CBMs tackling local interventions, PCBMs propose interventions for changing global model behavior._
-
  - **"Overlooked factors in concept-based explanations: Dataset choice, concept learnability, and human capability"**  
     **Authors**: _Vikram V. Ramaswamy, Sunnie S. Y. Kim, Ruth Fong, Olga Russakovsky._ <br>
     **Conference**: [CVPR 2023](https://arxiv.org/pdf/2207.09615)  <br>
@@ -186,7 +176,21 @@ alignment between the model’s representation and an underlying data generation
     **Conference**: [ICLR 2023](https://openreview.net/pdf?id=iPWiwWHc1V)  <br>
     **Summary**: _Leverages multimodal vision/language models to label internal neurons with open-ended concepts without the need for any labeled data or human examples._
 
-  
+ - **"Concept-level Debugging of Part-Prototype Networks"**  
+    **Authors**: _Andrea_Bontempelli, Stefano Teso, Katya Tentori, Fausto Giunchiglia, Andrea Passerini._ <br>
+    **Conference**: [ICLR 2023](https://openreview.net/pdf?id=oiwXWPDTyNk)  <br>
+    **Summary**: _Proposes a "debugger", which is a method for human experts to provide feedback on model predictions, specifically on what portion of the input is relevant, which is then further used to finetune the model._
+
+ - **"Post-hoc Concept Bottleneck Models"**  
+    **Authors**: _Mert Yuksekgonul, Maggie Wang, James Zou._ <br>
+    **Conference**: [ICLR 2023](https://arxiv.org/pdf/2205.15480)  <br>
+    **Summary**: _PCBMs can convert any pre-trained model into a concept bottleneck model in a data-efficient manner, and enhance the model with the desired interpretability benefits. In constrast to CBMs tackling local interventions, PCBMs propose interventions for changing global model behavior._
+
+ - **"Explain Any Concept: Segment Anything Meets Concept-Based Explanation"**  
+    **Authors**: _Ao Sun, Pingchuan Ma, Yuanyuan Yuan, Shuai Wang._ <br>
+    **Conference**: [NeurIPS 2023](https://papers.nips.cc/paper_files/paper/2023/file/44cdeb5ab7da31d9b5cd88fd44e3da84-Paper-Conference.pdf)  <br>
+    **Summary**: _Explores using SAM as a concept discovery method to augment conceptbased XAI. Concepts here are largely class-level._
+   
 
 - **"A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation"**  
     **Authors**: _Thomas Fel, Victor Boutin, Mazda Moayeri, Rémi Cadène, Louis Bethune, Léo andéol, Mathieu Chalvidal, Thomas Serre._ <br>
