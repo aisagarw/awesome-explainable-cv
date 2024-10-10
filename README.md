@@ -54,7 +54,7 @@ A curated list of research papers focused on explainable methods in computer vis
 
 - **"Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)"**  
     Authors: _Been Kim, Martin Wattenberg, Justin Gilmer, Carrie Cai, James Wexler, Fernanda Viegas, Rory Sayres_
-    Conference: [ICML 2018](https://arxiv.org/pdf/1711.11279)  
+    Conference: [ICML 2018](https://arxiv.org/pdf/1711.11279)
     Summary: _Uses directional derivatives to quantify the degree to which a user-defined concept is important to a classification result–for example, how sensitive a prediction of zebra is to the presence of stripes._
 
 - **" Towards Automatic Concept-based Explanations"**  
