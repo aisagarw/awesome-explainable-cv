@@ -133,7 +133,41 @@ alignment between the model’s representation and an underlying data generation
     **Conference**: [ICML 2023](https://openreview.net/pdf?id=1Hh1cIPJ7V)  <br>
     **Summary**: _The paper highlights that explainability methods in NLP systems encounter a form of the fundamental problem of causal inference. This means that for any given text input, we cannot observe the counterfactual versions of that input (i.e., alternate versions of the input that could lead to different outcomes). Without these counterfactuals, isolating the causal influence of specific parts of a model's representation on its outputs is difficult. The core proposal in this paper is the CPM, a model trained to mimic the black-box model. The CPM is designed to produce similar outputs as the original black-box model on actual input texts, while allowing for controlled interventions in its internal representations to simulate counterfactual scenarios._
 
-  
+- **"Concept-based Explanations for Out-of-Distribution Detectors"**  
+    **Authors**: _Jihye Choi, Jayaram Raghuram, Ryan Feng, Jiefeng Chen, Somesh Jha, Atul Prakash._ <br>
+    **Conference**: [ICML 2023](https://openreview.net/pdf?id=a33IYBCFey)  <br>
+    **Summary**: _Propose an unsupervised framework for learning a set of concepts that satisfy the desired properties of high detection completeness and concept separability, and demonstrate its effectiveness in providing concept-based explanations for diverse off-the-shelf OOD detectors._
+
+- **"Probabilistic Concept Bottleneck Models"**  
+    **Authors**: _Eunji Kim, Dahuin Jung, Sangha Park, Siwon Kim, Sungroh Yoon._ <br>
+    **Conference**: [ICML 2023](https://openreview.net/pdf?id=yOxy3T0d6e)  <br>
+    **Summary**: _ProbCBM models uncertainty in concept prediction and provides explanations based on the concept and its corresponding uncertainty._
+
+- **"Discover and Cure: Concept-aware Mitigation of Spurious Correlation"**  
+    **Authors**: _Shirley Wu, Mert Yuksekgonul, Linjun Zhang, James Zou._ <br>
+    **Conference**: [ICML 2023](https://openreview.net/pdf?id=QDxtrlPmfB)  <br>
+    **Summary**: _Discovers unstable concepts across different environments as spurious attributes, and then intervenes on the training data using the discovered concepts to reduce spurious correlation._
+
+- **"A Closer Look at the Intervention Procedure of Concept Bottleneck Models"**  
+    **Authors**: _Sungbin Shin, Yohan Jo, Sungsoo Ahn, Namhoon Lee._ <br>
+    **Conference**: [ICML 2023](https://openreview.net/pdf?id=YIWtM3GdZc)  <br>
+    **Summary**: _Develops various ways of selecting intervening concepts to improve the intervention effectiveness and conduct an array of in-depth analyses as to how they evolve under different circumstances._
+
+- **"Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis"**  
+    **Authors**: _Han Xuanyuan, Pietro Barbiero, Dobrik Georgiev, Lucie Charlotte Magister, Pietro Lió._ <br>
+    **Conference**: [AAAI 2023](https://arxiv.org/abs/2208.10609)  <br>
+    **Summary**: _highlights a finding that Graph Neural Network (GNN) neurons act as concept detectors, meaning that individual neurons in a GNN are capable of recognizing specific patterns or "concepts" within graph data. These concepts are tied to properties such as node degree (the number of edges connected to a node) and the neighborhood properties of the node (attributes of nodes directly connected to it._
+
+- **"Interactive Concept Bottleneck Models"**  
+    **Authors**: _Kushal Chauhan, Rishabh Tiwari, Jan Freyberg, Pradeep Shenoy, Krishnamurthy Dvijotham._ <br>
+    **Conference**: [AAAI 2023](https://arxiv.org/abs/2212.07430)  <br>
+    **Summary**: _Extends CBMs to interactive prediction settings where the model can query a human collaborator for the label to some concepts. We develop an interaction policy that, at prediction time, chooses which concepts to request a label for so as to maximally improve the final prediction._  
+
+- **"Statistically Signifcant Concept-based Explanation of Image Classifers via Model Knockoffs"**  
+    **Authors**: _Kaiwen Xu1, Kazuto Fukuchi1, Youhei Akimoto1, Jun Sakuma._ <br>
+    **Conference**: [IJCAI 2023](https://www.ijcai.org/proceedings/2023/0058.pdf)  <br>
+    **Summary**: _Propose a method to learn the image concept and then using the Knockoff samples to select the important concepts for prediction by controlling the False Discovery Rate (FDR) under a certain value._  
+
 
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
     **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_ <br>
