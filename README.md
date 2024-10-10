@@ -171,10 +171,29 @@ alignment between the model’s representation and an underlying data generation
     **Conference**: [IJCAI 2023](https://www.ijcai.org/proceedings/2023/0058.pdf)  <br>
     **Summary**: _Propose a method to learn the image concept and then using the Knockoff samples to select the important concepts for prediction by controlling the False Discovery Rate (FDR) under a certain value._
 
-- **"Statistically Signifcant Concept-based Explanation of Image Classifers via Model Knockoffs"**  
-    **Authors**: _Kaiwen Xu1, Kazuto Fukuchi1, Youhei Akimoto1, Jun Sakuma._ <br>
-    **Conference**: [IJCAI 2023](https://www.ijcai.org/proceedings/2023/0058.pdf)  <br>
-    **Summary**: _Propose a method to learn the image concept and then using the Knockoff samples to select the important concepts for prediction by controlling the False Discovery Rate (FDR) under a certain value._  
+- **"Text2Concept: Concept Activation Vectors Directly from Text"**  
+    **Authors**: _Mazda Moayeri, Keivan Rezaei, Maziar Sanjabi, Soheil Feizi._ <br>
+    **Conference**: [CVPRW 2023](https://www.ijcai.org/proceedings/2023/0058.pdf)  <br>
+    **Summary**: _Text2Concept introduces a method to generate CAVs directly from text descriptions, instead of relying on curated examples. The method leverages the CLIP model (which connects text and image representations in a shared multi-modal feature space) to enable any off-the-shelf vision model (like ResNet, etc.) to use text-based concepts without extensive training. The key innovation is a linear mapping layer that aligns the feature space of the vision model with the feature space of CLIP. This mapping layer requires only minimal training on existing data to achieve this alignment._
+
+- **"Label-Free Concept Bottleneck Models"**  
+    **Authors**: _Tuomas Oikarinen, Subhro Das, Lam M. Nguyen, Tsui-Wei Weng._ <br>
+    **Conference**: [ICLR 2023](https://openreview.net/pdf?id=FlCg47MNvBA)  <br>
+    **Summary**: _Method to transform any neural network into an interpretable CBM without labeled concept data, while retaining a high accuracy._
+
+- **"CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks"**  
+    **Authors**: _Tuomas Oikarinen, Tsui-Wei Weng._ <br>
+    **Conference**: [ICLR 2023](https://openreview.net/pdf?id=iPWiwWHc1V)  <br>
+    **Summary**: _Leverages multimodal vision/language models to label internal neurons with open-ended concepts without the need for any labeled data or human examples._
+
+  
+
+- **"A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation"**  
+    **Authors**: _Thomas Fel, Victor Boutin, Mazda Moayeri, Rémi Cadène, Louis Bethune, Léo andéol, Mathieu Chalvidal, Thomas Serre._ <br>
+    **Conference**: [NeurIPS 2023](https://arxiv.org/abs/2306.07304)  <br>
+    **Summary**: _The authors propose a unified perspective on post-hoc concept-based explanation methods. The main intuition underlying the work revolves around the fact that typical concept-based explanations can be considered as a two-stage process whereby, initially, a concept vocabulary is learned and, lastly, each concept's importance is evaluated.._  
+
+
 
 
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
