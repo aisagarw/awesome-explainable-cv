@@ -118,9 +118,18 @@ alignment between the model’s representation and an underlying data generation
     **Conference**: [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Bottleneck_Concepts_in_Image_Classification_CVPR_2023_paper.pdf)  <br>
     **Summary**: _This paper proposes Bottleneck Concept Learner (BotCL), which represents an image solely by the presence/absence of concepts learned through training over the target task without explicit supervision over the concepts. An image is represented solely by the existence of concepts and is classified using them._
 
+- **"Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification"**  
+    **Authors**: _Yue Yang, Artemis Panagopoulou, Shenghao Zhou, Daniel Jin, Chris Callison-Burch, Mark Yatskar._ <br>
+    **Conference**: [CVPR 2023](https://arxiv.org/pdf/2211.11158)  <br>
+    **Summary**: _Language Guided Bottlenecks (LaBo), leverages a language model to define a large space of possible bottlenecks. Given a problem domain, LaBo uses GPT-3 to produce factual sentences about categories to form candidate concepts. LLM generated sentential concepts can be aligned to images using CLIP, to form a bottleneck layer._
 
-   
+- **"Interpretable Neural-Symbolic Concept Reasoning"**  
+    **Authors**: _Pietro Barbiero, Gabriele Ciravegna, Francesco Giannini, Mateo Espinosa Zarlenga et al._ <br>
+    **Conference**: [ICML 2023](https://arxiv.org/pdf/2304.14068)  <br>
+    **Summary**: _The paper highlights that sota concept-based models rely on high-dimensional concept embedding representations which lack a clear semantic meaning, thus questioning the interpretability of their decision process. They propose a Deep Concept Reasoner (DCR) where neural networks build syntactic rule structures using concept embeddings, but such representations are only used to compute a logic rule. The final prediction is then obtained by evaluating such rules on the concepts’ truth values and not on their embeddings, thus maintaining clear semantics and providing a totally interpretable decision._
 
+
+  
 
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
     **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_ <br>
