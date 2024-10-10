@@ -128,6 +128,10 @@ alignment between the model’s representation and an underlying data generation
     **Conference**: [ICML 2023](https://arxiv.org/pdf/2304.14068)  <br>
     **Summary**: _The paper highlights that sota concept-based models rely on high-dimensional concept embedding representations which lack a clear semantic meaning, thus questioning the interpretability of their decision process. They propose a Deep Concept Reasoner (DCR) where neural networks build syntactic rule structures using concept embeddings, but such representations are only used to compute a logic rule. The final prediction is then obtained by evaluating such rules on the concepts’ truth values and not on their embeddings, thus maintaining clear semantics and providing a totally interpretable decision._
 
+- **"Causal Proxy Models for Concept-based Model Explanations"**  
+    **Authors**: _Zhengxuan Wu, Karel D'Oosterlinck, Atticus Geiger, Amir Zur, Christopher Potts._ <br>
+    **Conference**: [ICML 2023](https://openreview.net/pdf?id=1Hh1cIPJ7V)  <br>
+    **Summary**: _The paper highlights that explainability methods in NLP systems encounter a form of the fundamental problem of causal inference. This means that for any given text input, we cannot observe the counterfactual versions of that input (i.e., alternate versions of the input that could lead to different outcomes). Without these counterfactuals, isolating the causal influence of specific parts of a model's representation on its outputs is difficult. The core proposal in this paper is the CPM, a model trained to mimic the black-box model. The CPM is designed to produce similar outputs as the original black-box model on actual input texts, while allowing for controlled interventions in its internal representations to simulate counterfactual scenarios._
 
   
 
