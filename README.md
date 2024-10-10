@@ -48,17 +48,17 @@ A curated list of research papers focused on explainable methods in computer vis
 ### Concept-Based Explanations
 
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
-    **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_
+    **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_ <br>
     **Conference**: [TMLR 2024](https://openreview.net/pdf?id=TIsrnWpjQ0)  
     **Summary**: _Propose Tabular Concept Bottleneck Models (TabCBMs), a family of interpretable self-explaining neural architectures capable of learning high-level concept explanations for tabular tasks._
 
 - **"Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)"**  
-    **Authors**: _Been Kim, Martin Wattenberg, Justin Gilmer, Carrie Cai, James Wexler, Fernanda Viegas, Rory Sayres_
+    **Authors**: _Been Kim, Martin Wattenberg, Justin Gilmer, Carrie Cai, James Wexler, Fernanda Viegas, Rory Sayres_ <br>
     **Conference**: [ICML 2018](https://arxiv.org/pdf/1711.11279)
     **Summary**: _Uses directional derivatives to quantify the degree to which a user-defined concept is important to a classification result–for example, how sensitive a prediction of zebra is to the presence of stripes._
 
 - **" Towards Automatic Concept-based Explanations"**  
-    **Authors**: _Amirata Ghorbani, James Wexler, James Zou, Been Kim_
+    **Authors**: _Amirata Ghorbani, James Wexler, James Zou, Been Kim_ <br>
     **Conference**: [NeurIPS 2019](https://proceedings.neurips.cc/paper_files/paper/2019/file/77d2afcb31f6493e350fca61764efb9a-Paper.pdf)  
     **Summary**: _Automatically discovers concepts by segmenting the image at various resolutions so as to obtain concepts at all hierarchies and clustering similar segments as examples of the same concept. Next use any method like TCAV to explain the relevance of these discovered concepts._
 
