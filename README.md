@@ -46,6 +46,20 @@ A curated list of research papers focused on explainable methods in computer vis
 ---
 
 ### Concept-Based Explanations
+
+@misc{,
+   abstract = {Concept-based interpretability addresses the opacity of deep neural networks by constructing an explanation for a model's prediction using high-level units of information referred to as concepts. Research in this area, however, has been mainly focused on image and graph-structured data, leaving high-stakes tasks whose data is tabular out of reach of existing methods. In this paper, we address this gap by introducing the first definition of what a high-level concept may entail in tabular data. We use this definition to propose Tabular Concept Bottleneck Models (TabCBMs), a family of interpretable self-explaining neural architectures capable of learning high-level concept explanations for tabular tasks. As our method produces concept-based explanations both when partial concept supervision or no concept supervision is available at training time, it is adaptable to settings where concept annotations are missing. We evaluate our method in both synthetic and real-world tabular tasks and show that TabCBM outperforms or performs competitively compared to state-of-the-art methods, while providing a high level of interpretability as measured by its ability to discover known high-level concepts. Finally, we show that TabCBM can discover important high-level concepts in synthetic datasets inspired by critical tabular tasks (e.g., single-cell RNAseq) and allows for human-in-the-loop concept interventions in which an expert can identify and correct mispredicted concepts to boost the model's performance.},
+   author = {Mateo Espinosa Zarlenga and Zohreh Shams and Michael Edward Nelson and Been Kim and Google Deepmind and Mateja Jamnik},
+   title = {TabCBM: Concept-based Interpretable Neural Networks for Tabular Data},
+}
+
+
+- **"TCAV: TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
+  Authors: Mateo Espinosa Zarlenga and Zohreh Shams and Michael Edward Nelson and Been Kim and Google Deepmind and Mateja Jamnik
+  Conference: [TMLR 2024](https://openreview.net/pdf?id=TIsrnWpjQ0)
+  _Summary:_ Propose Tabular Concept Bottleneck Models (TabCBMs), a family of interpretable self-explaining neural architectures capable of learning high-level concept explanations for tabular tasks
+
+  
 - **"TCAV: Concept-based explanations by testing with concept activation vectors"**  
   Authors: Kim et al.  
   Conference: ICML 2018  
