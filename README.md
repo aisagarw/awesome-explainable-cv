@@ -17,7 +17,7 @@ A curated list of research papers focused on explainable methods in computer vis
 
 ### Surveys and Reviews
 - **"Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities, and Challenges toward Responsible AI"**  
-  Authors: Arrieta et al.  
+  Authors: Arrieta et al. 
   Conference: IJCAI 2020  
   [Link](https://arxiv.org/abs/1910.10045)  
   _Summary:_
@@ -49,7 +49,9 @@ A curated list of research papers focused on explainable methods in computer vis
 
 - **"TCAV: TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
   Authors: Mateo Espinosa Zarlenga and Zohreh Shams and Michael Edward Nelson and Been Kim and Google Deepmind and Mateja Jamnik
+  
   Conference: [TMLR 2024](https://openreview.net/pdf?id=TIsrnWpjQ0)
+  
   _Summary:_ Propose Tabular Concept Bottleneck Models (TabCBMs), a family of interpretable self-explaining neural architectures capable of learning high-level concept explanations for tabular tasks
 
   
