@@ -62,6 +62,13 @@ A curated list of research papers focused on explainable methods in computer vis
     **Conference**: [PMLR 2020](https://proceedings.mlr.press/v119/koh20a/koh20a.pdf)  <br>
     **Summary**: _First predicts concepts that are provided at training time, and then uses these concepts to predict the label. By construction, one can intervene on these concept bottleneck models by editing their predicted concept values and propagating these changes to the final prediction. No automated way proposed, but provides insights into how test-time concept intervention by domain experts can potentially help correcting incorrect predictions._
 
+- **"GlanceNets: Interpretabile, Leak-proof Concept-based Models"**  
+    **Authors**: _Emanuele Marconato, Andrea Passerini, Stefano Teso_ <br>
+    **Conference**: [CRL 2022](https://arxiv.org/pdf/2205.15612)  <br>
+    **Summary**: _Questions the interpretability of the concepts defined in classic CBMs and a propose clear definition of interpretability in terms of
+alignment between the model’s representation and an underlying data generation process._
+
+
 
 
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
