@@ -71,8 +71,22 @@ alignment between the model’s representation and an underlying data generation
 - **"Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off"**  
     **Authors**: _Mateo Espinosa Zarlenga, Pietro Barbiero, Gabriele Ciravegna, Giuseppe Marra et al._ <br>
     **Conference**: [NeurIPS 2022](https://openreview.net/pdf?id=HXCPA2GXf_)  <br>
-    **Summary**: _propose novel concept-based architectures to overcome the accuracy/interpretability pitfalls of classic CBMs (mostly due to incomplete concepts or over-reliance on concepts), thus enabling their deployment in real-world settings where concept annotations are likely to be incomplete.s._
+    **Summary**: _propose novel concept-based architectures to overcome the accuracy/interpretability pitfalls of classic CBMs (mostly due to incomplete concepts or over-reliance on concepts), thus enabling their deployment in real-world settings where concept annotations are likely to be incomplete._
 
+- **"Concept Activation Regions: A Generalized Framework For Concept-Based Explanations"**  
+    **Authors**: _Jonathan Crabbé, Mihaela van der Schaar._ <br>
+    **Conference**: [NeurIPS 2022](https://arxiv.org/pdf/2209.11222)  <br>
+    **Summary**: _Discusses the assumptions behind existing methods like CAV which assume that the examples illustrating a concept are mapped in a fixed direction of the DNN’s latent space. Relaxes this assumption by allowing concept examples to be scattered across different clusters called concept activation region (CAR)._
+
+- **"VICE: Variational Interpretable Concept Embeddings"**  
+    **Authors**: _Lukas Muttenthaler, Charles Y. Zheng, Patrick McClure, Robert A. Vandermeulen, Martin N. Hebart, Francisco Pereira._ <br>
+    **Conference**: [NeurIPS 2022](https://arxiv.org/abs/2205.00756)  <br>
+    **Summary**: _Method to obtain non-negative representations of object concepts._
+
+- **"Addressing Leakage in Concept Bottleneck Models"**  
+    **Authors**: _Marton Havasi, Sonali Parbhoo, Finale Doshi-Velez._ <br>
+    **Conference**: [NeurIPS 2022](https://finale.seas.harvard.edu/sites/scholar.harvard.edu/files/finale/files/10494_addressing_leakage_in_concept_.pdf)  <br>
+    **Summary**: _Improvement over CBMs on fronts of them having an insufficient concept set and an inexpressive concept predictor._
 
 
 
