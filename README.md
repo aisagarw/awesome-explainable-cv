@@ -195,10 +195,27 @@ alignment between the model’s representation and an underlying data generation
 - **"A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation"**  
     **Authors**: _Thomas Fel, Victor Boutin, Mazda Moayeri, Rémi Cadène, Louis Bethune, Léo andéol, Mathieu Chalvidal, Thomas Serre._ <br>
     **Conference**: [NeurIPS 2023](https://arxiv.org/abs/2306.07304)  <br>
-    **Summary**: _The authors propose a unified perspective on post-hoc concept-based explanation methods. The main intuition underlying the work revolves around the fact that typical concept-based explanations can be considered as a two-stage process whereby, initially, a concept vocabulary is learned and, lastly, each concept's importance is evaluated.._  
+    **Summary**: _The authors propose a unified perspective on post-hoc concept-based explanation methods. The main intuition underlying the work revolves around the fact that typical concept-based explanations can be considered as a two-stage process whereby, initially, a concept vocabulary is learned and, lastly, each concept's importance is evaluated._  
 
+- **"Understanding Distributed Representations of Concepts in Deep Neural Networks without Supervision"**  
+    **Authors**: _Wonjoon Chang, Dahee Kwon, Jaesik Choi._ <br>
+    **Conference**: [AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28999)  <br>
+    **Summary**: _Propose an unsupervised method for discovering distributed representations of concepts by selecting a principal subset of neurons._
 
+- **"Unsupervised Concept Discovery Mitigates Spurious Correlations"**  
+    **Authors**: _Md Rifat Arefin, Yan Zhang, Aristide Baratin, Francesco Locatello, Irina Rish, Dianbo Liu, Kenji Kawaguchi._ <br>
+    **Conference**: [ICML 2024](https://arxiv.org/pdf/2402.13368)  <br>
+    **Summary**: _Introduces CoBalT, a method combining concept discovery with concept balancing for robust classification. he goal of CoBalT is to improve classification accuracy, particularly in situations where certain concepts may be over- or under-represented in the data. This approach addresses the challenge of imbalance in concept-based learning and ensures that the model doesn't overly rely on dominant or spurious concepts during classification. CoBalT follows a two-stage procedure common in the literature: first, inferring information about the training data, and then leveraging this information for robust training._  
 
+- **"Removing Spurious Concepts from Neural Network Representations via Joint Subspace Estimation"**  
+    **Authors**: _Floris Holstege, Bram Wouters, Noud Van Giersbergen, Cees Diks._ <br>
+    **Conference**: [ICML 2024](https://proceedings.mlr.press/v235/holstege24a.html)  <br>
+    **Summary**: _The algorithm works by jointly estimating two low-dimensional subspaces within the high-dimensional neural network representation. These subspaces are designed to be orthogonal, meaning they are independent of each other and capture distinct features of the data. One subspace represents the main-task concepts, which are the relevant features the model needs to solve the primary classification or prediction task. The other subspace represents spurious concepts, which are features that the model may learn but are not directly relevant (and often harmful) to the main task, such as background patterns or dataset biases._
+
+- **"Understanding Inter-Concept Relationships in Concept-Based Models"**  
+    **Authors**: _Naveen Janaki Raman, Mateo Espinosa Zarlenga, Mateja Jamnik._ <br>
+    **Conference**: [ICML 2024](https://proceedings.mlr.press/v235/raman24a.html)  <br>
+    **Summary**: _The algorithm works by jointly estimating two low-dimensional subspaces within the high-dimensional neural network representation. These subspaces are designed to be orthogonal, meaning they are independent of each other and capture distinct features of the data. One subspace represents the main-task concepts, which are the relevant features the model needs to solve the primary classification or prediction task. The other subspace represents spurious concepts, which are features that the model may learn but are not directly relevant (and often harmful) to the main task, such as background patterns or dataset biases._ 
 
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
     **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_ <br>
