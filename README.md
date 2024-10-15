@@ -225,8 +225,12 @@ alignment between the model’s representation and an underlying data generation
 - **"Learning to Intervene on Concept Bottlenecks"**  
     **Authors**: _David Steinmann, Wolfgang Stammer, Felix Friedrich, Kristian Kersting._ <br>
     **Conference**: [ICML 2024](https://openreview.net/forum?id=upO8FUwf92)  <br>
-    **Summary**: _CB2M allows the reuse of information provided in previous interventions by keeping a memory of past interventions._ 
+    **Summary**: _CB2M allows the reuse of information provided in previous interventions by keeping a memory of past interventions._
 
+- **"Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations for Vision Foundation Models"**  
+    **Authors**: _Hengyi Wang, Shiwei Tan, Hao Wang._ <br>
+    **Conference**: [ICML 2024](https://openreview.net/pdf?id=Cw6Xl0g8a5)  <br>
+    **Summary**: _This paper proposes five desiderata for explaining ViTs – faithfulness, stability, sparsity, multi-level structure, and parsimony – and demonstrates the inadequacy of current methods in meeting these criteria comprehensively._
 
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
     **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_ <br>
