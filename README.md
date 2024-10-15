@@ -217,6 +217,17 @@ alignment between the model’s representation and an underlying data generation
     **Conference**: [ICML 2024](https://proceedings.mlr.press/v235/raman24a.html)  <br>
     **Summary**: _The algorithm works by jointly estimating two low-dimensional subspaces within the high-dimensional neural network representation. These subspaces are designed to be orthogonal, meaning they are independent of each other and capture distinct features of the data. One subspace represents the main-task concepts, which are the relevant features the model needs to solve the primary classification or prediction task. The other subspace represents spurious concepts, which are features that the model may learn but are not directly relevant (and often harmful) to the main task, such as background patterns or dataset biases._ 
 
+- **"Towards Compositionality in Concept Learning"**  
+    **Authors**: _Adam Stein, Aaditya Naik, Yinjun Wu, Mayur Naik, Eric Wong._ <br>
+    **Conference**: [ICML 2024](https://openreview.net/forum?id=upO8FUwf92)  <br>
+    **Summary**: _Method to extract concepts that are compositional._
+
+- **"Learning to Intervene on Concept Bottlenecks"**  
+    **Authors**: _David Steinmann, Wolfgang Stammer, Felix Friedrich, Kristian Kersting._ <br>
+    **Conference**: [ICML 2024](https://openreview.net/forum?id=upO8FUwf92)  <br>
+    **Summary**: _CB2M allows the reuse of information provided in previous interventions by keeping a memory of past interventions._ 
+
+
 - **"TabCBM: Concept-based Interpretable Neural Networks for Tabular Data"**  
     **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_ <br>
     **Conference**: [TMLR 2024](https://openreview.net/pdf?id=TIsrnWpjQ0)  <br>
