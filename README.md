@@ -236,6 +236,15 @@ alignment between the model’s representation and an underlying data generation
     **Authors**: _Mateo Espinosa Zarlenga, Zohreh Shams, Michael Edward Nelson, Been Kim, Google Deepmind, Mateja Jamnik_ <br>
     **Conference**: [TMLR 2024](https://openreview.net/pdf?id=TIsrnWpjQ0)  <br>
     **Summary**: _Propose Tabular Concept Bottleneck Models (TabCBMs), a family of interpretable self-explaining neural architectures capable of learning high-level concept explanations for tabular tasks._
+
+- **"Understanding Video Transformers via Universal Concept Discovery"**  
+    **Authors**: _Matthew Kowal, Achal Dave, Rares Ambrus, Adrien Gaidon, Konstantinos G. Derpanis, Pavel Tokmakov_ <br>
+    **Conference**: [CVPR 2024]([https://openreview.net/pdf?id=TIsrnWpjQ0](https://openaccess.thecvf.com/content/CVPR2024/html/Kowal_Understanding_Video_Transformers_via_Universal_Concept_Discovery_CVPR_2024_paper.html))  <br>
+    **Summary**: _Discusses that concept-based interpretability has concentrated solely on image-level tasks, along with introducing a method to discover concepts in video transformers ._
+
+- **"Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models"**  
+    **Authors**: _Matthew Kowal, Richard P. Wildes, Konstantinos G. Derpanis_ <br>
+    **Conference**: [CVPR 2024]([https://openaccess.thecvf.com/content/CVPR2024/html/Kowal_Visual_Concept_Connectome_VCC_Open_World_Concept_Discovery_and_their_CVPR_2024_paper.html))  <br>
 ---
 
 ### Contrastive Explanations
