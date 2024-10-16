@@ -248,10 +248,9 @@ alignment between the model’s representation and an underlying data generation
 ---
 
 ### Surveys and Reviews
-- **"Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities, and Challenges toward Responsible AI"**  
-  Authors: Arrieta et al. 
-  Conference: IJCAI 2020  
-  [Link](https://arxiv.org/abs/1910.10045)  
+- **"Gradient based Feature Attribution in Explainable AI: A Technical Review"**  
+    **Authors**: _Yongjie Wang, Tong Zhang, Xu Guo, Zhiqi Shen_ <br>
+    **Conference**: [arXiv 2024](https://arxiv.org/abs/2403.10415)  <br>
 
 - **"Explainable AI for Interpretable and Transparent Machine Learning Models: A Review"**  
   Authors: Tjoa and Guan  
