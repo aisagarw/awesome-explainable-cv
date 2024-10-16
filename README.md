@@ -4,12 +4,9 @@ A curated list of research papers focused on explainable methods in computer vis
 
 ### Table of Contents
 1. [Surveys and Reviews](#surveys-and-reviews)
-2. [Saliency Methods](#saliency-methods)
-3. [Concept-Based Explanations](#concept-based-explanations)
-4. [Contrastive Explanations](#contrastive-explanations)
-5. [Datasets and Benchmarks](#datasets-and-benchmarks)
-6. [Applications](#applications)
-7. [Resources](#resources)
+2. [Concept-Based Explanations](#concept-based-explanations)
+3. [Saliency Methods](#saliency-methods)
+4. [Datasets and Benchmarks](#datasets-and-benchmarks)
 
 ---
 
@@ -18,28 +15,11 @@ A curated list of research papers focused on explainable methods in computer vis
   Authors: Arrieta et al. 
   Conference: IJCAI 2020  
   [Link](https://arxiv.org/abs/1910.10045)  
-  _Summary:_
 
 - **"Explainable AI for Interpretable and Transparent Machine Learning Models: A Review"**  
   Authors: Tjoa and Guan  
   Conference: Expert Systems with Applications 2020  
   [Link](https://www.sciencedirect.com/science/article/pii/S1566253520308285)  
-  _Summary:_
-
----
-
-### Saliency Methods
-- **"Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization"**  
-  Authors: Selvaraju et al.  
-  Conference: ICCV 2017  
-  [Link](https://arxiv.org/abs/1610.02391)  
-  _Summary:_
-
-- **"SmoothGrad: removing noise by adding noise"**  
-  Authors: Smilkov et al.  
-  Conference: ICLR 2017  
-  [Link](https://arxiv.org/abs/1706.03825)  
-  _Summary:_
 
 ---
 
@@ -256,6 +236,22 @@ alignment between the model’s representation and an underlying data generation
 
 ---
 
+### Saliency Methods
+- **"Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization"**  
+  Authors: Selvaraju et al.  
+  Conference: ICCV 2017  
+  [Link](https://arxiv.org/abs/1610.02391)  
+  _Summary:_
+
+- **"SmoothGrad: removing noise by adding noise"**  
+  Authors: Smilkov et al.  
+  Conference: ICLR 2017  
+  [Link](https://arxiv.org/abs/1706.03825)  
+  _Summary:_
+
+---
+
+
 ### Datasets and Benchmarks
 - **"CUB-200-2011 Birds Dataset"**  
   Description: A popular dataset for fine-grained image classification with concept annotations used for explainability research.  
@@ -264,19 +260,6 @@ alignment between the model’s representation and an underlying data generation
 
 ---
 
-### Applications
-- **"XAI in Medical Imaging"**  
-  Authors: Lundervold and Lundervold  
-  Conference: Frontiers in Neuroscience 2019  
-  [Link](https://www.frontiersin.org/articles/10.3389/fnins.2019.00518/full)  
-  _Summary:_
-
----
-
-### Resources
-- **Code Repositories**  
-  - [Grad-CAM Implementation (Pytorch)](https://github.com/jacobgil/pytorch-grad-cam)
-  - [TCAV Implementation (Tensorflow)](https://github.com/tensorflow/tcav)
 
 - **Related Awesome Lists**
   - [Awesome Explainable AI (XAI)](https://github.com/wangyongjie-ntu/Awesome-XAI)
