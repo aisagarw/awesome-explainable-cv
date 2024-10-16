@@ -252,10 +252,17 @@ alignment between the model’s representation and an underlying data generation
     **Authors**: _Yongjie Wang, Tong Zhang, Xu Guo, Zhiqi Shen_ <br>
     **Conference**: [arXiv 2024](https://arxiv.org/abs/2403.10415)  <br>
 
-- **"Explainable AI for Interpretable and Transparent Machine Learning Models: A Review"**  
-  Authors: Tjoa and Guan  
-  Conference: Expert Systems with Applications 2020  
-  [Link](https://www.sciencedirect.com/science/article/pii/S1566253520308285)  
+- **"A Novel Survey on Image Classification Models for Explainable Predictions using Computer Vision"**  
+    **Authors**: _Lakkuru Venkata Koushik, Atla Vardhan Reddy, KarnatiSai Rithvik, Balguri Manish Rao, Hari Kiran Vege, Dinesh Kumar Anguraj_ <br>
+    **Conference**: [ICAAIC 2024](https://arxiv.org/abs/2403.10415)  <br>
+
+- **"Interpreting Black-Box Models: A Review on Explainable Artificial Intelligence"**  
+    **Authors**: _Vikas Hassija, Vinay Chamola et al._ <br>
+    **Conference**: [2024](https://link.springer.com/article/10.1007/s12559-023-10179-8)  <br>
+
+- **"Survey on Explainable AI: Techniques, challenges and open issues"**  
+    **Authors**: _Adel Abusitta et al._ <br>
+    **Conference**: [2024](https://www.sciencedirect.com/science/article/pii/S095741742401577X?casa_token=2l_hY5fkUZYAAAAA:2oVPMCKfI91hKJKmUxe90SRsg75fizuQvnYPjfPru70R7kF1EuoeUv4AfDYzg6_1OvQPwoJvTIk)  <br>
 
 ---
 
