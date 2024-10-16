@@ -211,7 +211,7 @@ alignment between the model’s representation and an underlying data generation
 
 - **"Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models"**  
     **Authors**: _Matthew Kowal, Richard P. Wildes, Konstantinos G. Derpanis_ <br>
-    **Conference**: [CVPR 2024]([https://openaccess.thecvf.com/content/CVPR2024/html/Kowal_Visual_Concept_Connectome_VCC_Open_World_Concept_Discovery_and_their_CVPR_2024_paper.html))  <br>
+    **Conference**: [CVPR 2024](\https://openaccess.thecvf.com/content/CVPR2024/html/Kowal_Visual_Concept_Connectome_VCC_Open_World_Concept_Discovery_and_their_CVPR_2024_paper.html)  <br>
 
 ---
 
