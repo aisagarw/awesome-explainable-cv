@@ -4,7 +4,7 @@ A curated list of research papers focused on explainable methods in computer vis
 
 ### Table of Contents
 1. [Concept-Based Explanations](#concept-based-explanations)
-2. [Saliency Methods](#saliency-methods)
+2. [Feature Attribution Methods](#saliency-methods)
 3. [Datasets and Benchmarks](#datasets-and-benchmarks)
 4. [Surveys and Reviews](#surveys-and-reviews)
 
@@ -206,44 +206,64 @@ alignment between the model’s representation and an underlying data generation
 
 - **"Understanding Video Transformers via Universal Concept Discovery"**  
     **Authors**: _Matthew Kowal, Achal Dave, Rares Ambrus, Adrien Gaidon, Konstantinos G. Derpanis, Pavel Tokmakov_ <br>
-    **Conference**: [CVPR 2024]([https://openreview.net/pdf?id=TIsrnWpjQ0](https://openaccess.thecvf.com/content/CVPR2024/html/Kowal_Understanding_Video_Transformers_via_Universal_Concept_Discovery_CVPR_2024_paper.html))  <br>
+    **Conference**: [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Kowal_Understanding_Video_Transformers_via_Universal_Concept_Discovery_CVPR_2024_paper.html)  <br>
     **Summary**: _Discusses that concept-based interpretability has concentrated solely on image-level tasks, along with introducing a method to discover concepts in video transformers ._
 
 - **"Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models"**  
     **Authors**: _Matthew Kowal, Richard P. Wildes, Konstantinos G. Derpanis_ <br>
     **Conference**: [CVPR 2024]([https://openaccess.thecvf.com/content/CVPR2024/html/Kowal_Visual_Concept_Connectome_VCC_Open_World_Concept_Discovery_and_their_CVPR_2024_paper.html))  <br>
----
-
-### Contrastive Explanations
-- **"Explaining Deep Neural Networks with a Conceptualized Contrastive Explanation"**  
-  Authors: Dhurandhar et al.  
-  Conference: AISTATS 2018  
-  [Link](https://arxiv.org/abs/1802.07623)  
-  _Summary:_
 
 ---
 
 ### Saliency Methods
-- **"Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization"**  
-  Authors: Selvaraju et al.  
-  Conference: ICCV 2017  
-  [Link](https://arxiv.org/abs/1610.02391)  
-  _Summary:_
 
-- **"SmoothGrad: removing noise by adding noise"**  
-  Authors: Smilkov et al.  
-  Conference: ICLR 2017  
-  [Link](https://arxiv.org/abs/1706.03825)  
-  _Summary:_
+- **"Learning Deep Features for Discriminative Localization"**  
+    **Authors**: _Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba_ <br>
+    **Conference**: [CVPR 2015](https://arxiv.org/abs/1512.04150)  <br>
+
+- **"LRP: Layer-wise relevance propagation for neural networks with local renormalization layers"**  
+    **Authors**: _Alexander Binder, Grégoire Montavon, Sebastian Bach, Klaus-Robert Müller, Wojciech Samek_ <br>
+    **Conference**: [ICANN 2016](https://arxiv.org/abs/1604.00825)  <br>
+
+- **"Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization"**  
+    **Authors**: _Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra_ <br>
+    **Conference**: [ICCV 2017](https://arxiv.org/abs/1610.02391)  <br>
+
+- **"Shap: A Unified Approach to Interpreting Model Predictions"**  
+    **Authors**: _Scott Lundberg, Su-In Lee_ <br>
+    **Conference**: [NeurIPS 2017](https://arxiv.org/abs/1705.07874)  <br>
+
+- **"RISE: Randomized Input Sampling for Explanation of Black-box Model"**  
+    **Authors**: _Vitali Petsiuk, Abir Das, Kate Saenko_ <br>
+    **Conference**: [BMVC 2018](http://bmvc2018.org/contents/papers/1064.pdf)  <br>
+
+- **"LIME: "Why Should I Trust You?": Explaining the Predictions of Any Classifier"**  
+    **Authors**: _Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin_ <br>
+    **Conference**: [SIGKDD 2018](https://arxiv.org/abs/1602.04938)  <br>
+
+- **"Interpretable Explanations of Black Boxes by Meaningful Perturbation"**  
+    **Authors**: _Ruth C. Fong, Andrea Vedaldi_ <br>
+    **Conference**: [ICCV 2017](https://arxiv.org/pdf/1704.03296)  <br>
+
 
 ---
 
 
 ### Datasets and Benchmarks
+- **"XAI-Bench"**  
+  Description: Synthetic datasets along with a library for benchmarking feature attribution algorithms.  
+  [Link](https://paperswithcode.com/dataset/xai-bench#:~:text=XAI%2DBench%20is%20a%20suite,Shapley%20values%20and%20other%20metrics.)
+
 - **"CUB-200-2011 Birds Dataset"**  
   Description: A popular dataset for fine-grained image classification with concept annotations used for explainability research.  
-  [Link](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)  
-  _Summary:_
+  [Link](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
+
+- **"XIMAGENET-12: An Explainable Visual Benchmark Dataset for Robustness Evaluation"**  
+  Description: Studies and provides information on class dependent vs independent factors across images (e.g. colors, blur, edges etc).  
+  [Link](https://sites.google.com/view/ximagenet-12/home)
+
+
+
 
 ---
 
