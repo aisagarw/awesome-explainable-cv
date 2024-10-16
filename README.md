@@ -288,7 +288,7 @@ alignment between the model’s representation and an underlying data generation
 
 
 - **Related Awesome Lists**
-  - [Awesome Explainable AI (XAI)](https://github.com/wangyongjie-ntu/Awesome-XAI)
+  - [Awesome Explainable AI (XAI)](https://github.com/rushrukh/awesome-explainable-ai)
 
 ---
 
