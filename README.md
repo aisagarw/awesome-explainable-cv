@@ -278,11 +278,11 @@ alignment between the model’s representation and an underlying data generation
 
 - **"Interpreting Black-Box Models: A Review on Explainable Artificial Intelligence"**  
     **Authors**: _Vikas Hassija, Vinay Chamola et al._ <br>
-    **Conference**: [2024](https://link.springer.com/article/10.1007/s12559-023-10179-8)  <br>
+    **Conference**: [arXiv 2024](https://link.springer.com/article/10.1007/s12559-023-10179-8)  <br>
 
 - **"Survey on Explainable AI: Techniques, challenges and open issues"**  
     **Authors**: _Adel Abusitta et al._ <br>
-    **Conference**: [2024](https://www.sciencedirect.com/science/article/pii/S095741742401577X?casa_token=2l_hY5fkUZYAAAAA:2oVPMCKfI91hKJKmUxe90SRsg75fizuQvnYPjfPru70R7kF1EuoeUv4AfDYzg6_1OvQPwoJvTIk)  <br>
+    **Conference**: [arXiv 2024](https://www.sciencedirect.com/science/article/pii/S095741742401577X?casa_token=2l_hY5fkUZYAAAAA:2oVPMCKfI91hKJKmUxe90SRsg75fizuQvnYPjfPru70R7kF1EuoeUv4AfDYzg6_1OvQPwoJvTIk)  <br>
 
 ---
 
