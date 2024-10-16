@@ -3,23 +3,10 @@
 A curated list of research papers focused on explainable methods in computer vision, ranging from saliency maps to concept-based explanations and beyond. The goal is to gather key papers that contribute to transparency and interpretability in machine learning models, particularly in the context of visual data.
 
 ### Table of Contents
-1. [Surveys and Reviews](#surveys-and-reviews)
-2. [Concept-Based Explanations](#concept-based-explanations)
-3. [Saliency Methods](#saliency-methods)
-4. [Datasets and Benchmarks](#datasets-and-benchmarks)
-
----
-
-### Surveys and Reviews
-- **"Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities, and Challenges toward Responsible AI"**  
-  Authors: Arrieta et al. 
-  Conference: IJCAI 2020  
-  [Link](https://arxiv.org/abs/1910.10045)  
-
-- **"Explainable AI for Interpretable and Transparent Machine Learning Models: A Review"**  
-  Authors: Tjoa and Guan  
-  Conference: Expert Systems with Applications 2020  
-  [Link](https://www.sciencedirect.com/science/article/pii/S1566253520308285)  
+1. [Concept-Based Explanations](#concept-based-explanations)
+2. [Saliency Methods](#saliency-methods)
+3. [Datasets and Benchmarks](#datasets-and-benchmarks)
+4. [Surveys and Reviews](#surveys-and-reviews)
 
 ---
 
@@ -257,6 +244,19 @@ alignment between the model’s representation and an underlying data generation
   Description: A popular dataset for fine-grained image classification with concept annotations used for explainability research.  
   [Link](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)  
   _Summary:_
+
+---
+
+### Surveys and Reviews
+- **"Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities, and Challenges toward Responsible AI"**  
+  Authors: Arrieta et al. 
+  Conference: IJCAI 2020  
+  [Link](https://arxiv.org/abs/1910.10045)  
+
+- **"Explainable AI for Interpretable and Transparent Machine Learning Models: A Review"**  
+  Authors: Tjoa and Guan  
+  Conference: Expert Systems with Applications 2020  
+  [Link](https://www.sciencedirect.com/science/article/pii/S1566253520308285)  
 
 ---
 
