@@ -31,7 +31,17 @@ A curated list of research papers focused on explainable methods in computer vis
     **Authors**: _Andrei Margeloiu, Matthew Ashman, Umang Bhatt, Yanzhi Chen, Mateja Jamnik, Adrian Weller_ <br>
     **Conference**: [arXiv 2021](https://arxiv.org/abs/2105.04289)  <br>
     **Summary**: _Demonstrates that concepts learned in CBMs do not correspond to anything semantically meaningful in input space._
- 
+  
+- **"Logic Explained Networks"**  
+    **Authors**: _Gabriele Ciravegna, Pietro Barbiero, Francesco Giannini, Marco Gori,
+Pietro Liò, Marco Maggini, Stefano Melacci_ <br>
+    **Journal**: [Artificial Intelligence](https://pdf.sciencedirectassets.com/271585/1-s2.0-S0004370222X00118/1-s2.0-S000437022200162X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIBSowsjoFWFlbWGrpIo3ndLx2ZHr7mRzHcThcuEQSiJbAiBbMA8rEyGyPtG2ck6pjRCVCb7XvJTOo6HK2Ry3CR5JhyqyBQgkEAUaDDA1OTAwMzU0Njg2NSIMqbn9RkoEfm25HdriKo8FUOwN95zSl%2FAYsUuCJzOpnHBfU9M5MG45YFA9rqNZ61JMi7PRvTLGc%2FhoIJM3xQQEqxD6jbrg0HAz%2BkAQU7y9my5Q6BmwT6YZRhSffrQ8jKohbw742af8pAsw6W9V1U7DGzOJZSCK7SluZdAICK7TtMf16Nygy6F1R0x3bpSLI14Hx3cvRAGgTggnQ6WVRYG7tIdaqKmjWdpQ%2FiOWXiwN4BnoUXzKtvSwBIdMGK5lBI7neM4Tsa0XDOgz9%2Bm6uraHFYJWn41jkXisrkxMnlePRCuSiEobM7%2F83YKTom4PhwO3auUb2KmHyqowEmxs8XdCpLzLgAf6881uALO4hM%2Fg%2F7VkuZ9Irh8mBvPspllbBKxcJypebj7nb9D5E4ub9Yo3BkewlJ6K4b2%2FTLLMejY0cP7CsOc7AoST78vkxex%2BsgR%2FAM4xUu3iQLnrNBbV51Vc8y71%2BM%2FpnA%2FM1IHhfvBgfdzRWFSpX9O5pkMeh0QeZzZO0VwHT9M1CMDLcIX8WBvNA%2FkLlnBAzvY2GqzwEijoCGbTDl8L9Hkg55h8Q5OUjATnxD3sDGeHxhOLzOxNbEBIlKE%2FPDQnc9Bvzk1TKP88bmGYFIGK9SYpcbzu9FJBZPhDPuKFp06FxhIon1ze9OH2PrNbubYT5fUDG4IZiYaarmSXDiuT9jW7F5i%2FqddsjKigt9H%2BXPzfS0DwsdW68tU2Qlx%2BRSEbX7wi4C6EbdrgEN4av0h7XFawQVAZoitmaLJ%2FPPc6dBT0ZMk1pCCx2pWMoG2uy%2BZ4As1fh0w3vZm2n67zlvpcu0oM7SixZrcb5GukpKQdB1667XPfm%2BZFOWW7B5gXr6iFcVXxCgo6jlReEgJn3I2f8RhKlW6rulaP4zCEgcK4BjqyAVkGYhr18kK5UW9zt%2FjsKiSUekEOK45B7Eb8WK4iJzlktVCPaCz6AYCtqKzibYftkjyejnupI0UiDUCKa3UNkioSahKMUzYJvlXtgmU5c1gWvnGJdqorywYcdZuUrWDAMhtoF5UJKyo%2Frj%2B5PnTxeNaSZqW%2FqYp9QCFuOGrG9R9PWPuKqiNbJGCOeo1yO7lUpOyeARoycbctnCS9sUwS1QWcaeqBj0EHnGqWuy4jOmL%2Bcd4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241017T035446Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQXBNCUCL%2F20241017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=20636eeb54737da827ccdd86178d240f2526d903053621f42cb4bd5449fb6098&hash=12bb2a2373ba17bfaf53b749382f5d5c751bc8e82136a0ee18d118da8f8819a4&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S000437022200162X&tid=spdf-8626cf19-eff3-472a-98e1-72a221047815&sid=b279195e8a0a874a89184a3947a57575dfc3gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f15570654025b5c595904&rr=8d3d5966fd563ba0&cc=us)  <br>
+    **Summary**: _Logic Explained Networks (LENs) offer interpretable deep learning models that provide human-understandable explanations using First-Order Logic, outperforming traditional white-box models in both supervised and unsupervised learning tasks._
+
+- **"Entropy-based Logic Explanations of Neural Networks"**  
+    **Authors**: _Pietro Barbiero, Gabriele Ciravegna, Francesco Giannini, Pietro Lió, Marco Gori, Stefano Melacci_ <br>
+    **Conference**: [AAAI 2022](https://arxiv.org/abs/2106.06804)  <br>
+    **Summary**: _A novel end-to-end approach extracts concise First-Order Logic explanations from neural networks using an entropy-based criterion, improving both interpretability and classification accuracy in safety-critical domains._
 
 - **"GlanceNets: Interpretabile, Leak-proof Concept-based Models"**  
     **Authors**: _Emanuele Marconato, Andrea Passerini, Stefano Teso_ <br>
@@ -83,6 +93,16 @@ alignment between the model’s representation and an underlying data generation
     **Authors**: _Yue Yang, Artemis Panagopoulou, Shenghao Zhou, Daniel Jin, Chris Callison-Burch, Mark Yatskar._ <br>
     **Conference**: [CVPR 2023](https://arxiv.org/pdf/2211.11158)  <br>
     **Summary**: _Language Guided Bottlenecks (LaBo), leverages a language model to define a large space of possible bottlenecks. Given a problem domain, LaBo uses GPT-3 to produce factual sentences about categories to form candidate concepts. LLM generated sentential concepts can be aligned to images using CLIP, to form a bottleneck layer._
+
+- **"Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat"**  
+    **Authors**: _Shantanu Ghosh, Ke Yu, Forough Arabshahi, Kayhan Batmanghelich_ <br>
+    **Conference**: [ICML 2023](https://proceedings.mlr.press/v202/ghosh23c.html)  <br>
+    **Summary**: _This paper introduces a method to iteratively carve concept-based interpretable models from a Blackbox in a post-hoc manner, using First Order Logic for explanations, while a residual network handles harder cases, achieving high interpretability without sacrificing performance._
+
+- **"Distilling BlackBox to Interpretable models for Efficient Transfer Learning"**  
+    **Authors**: _Shantanu Ghosh, Ke Yu, Forough Arabshahi, Kayhan Batmanghelich_ <br>
+    **Conference**: [MICCAI 2023](https://link.springer.com/epdf/10.1007/978-3-031-43895-0_59?sharing_token=vDZQRGbOgg_uNMjDCTkmSPe4RwlQNchNByi7wbcMAY7LayIvXqtIKyotmDxwKVoR3vE6_tVF4ADNzhgWf_E8lqdZHGLlVhLQsT-f7FM21A5VImVHfgQYdYURRq1z5yRUoC2j2qsFEWUXudYxHYcBdpzFCUEMAvrfxYUsk5bkEdM%3D)  <br>
+    **Summary**: _This paper presents an concept-based interpretable model for chest-X-ray classification that can be efficiently fine-tuned for new domains using minimal labeled data, leveraging semi-supervised learning and distillation from blackbox models._
 
 - **"Interpretable Neural-Symbolic Concept Reasoning"**  
     **Authors**: _Pietro Barbiero, Gabriele Ciravegna, Francesco Giannini, Mateo Espinosa Zarlenga et al._ <br>
